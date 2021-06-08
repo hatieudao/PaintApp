@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DefaultFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DefaultFX_jar</output-path>
+    <root id="archive" name="DefaultFX.jar">
+      <element id="module-output" name="DefaultFX" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/javafx-sdk-17/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.properties" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.web.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.swing.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.media.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.controls.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx.base.jar" />
+      <element id="file-copy" path="E:/javafx-sdk-17/lib/javafx-swt.jar" />
+    </root>
+  </artifact>
+</component>
